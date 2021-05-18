@@ -1,9 +1,33 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>Rock, paper, scissors game</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <div id="game-container">
+            <div id="btn-container" class="buttons">
+                <div id="rock" class="button">
+                    <img src="rock.png" alt="rock" width="150rem" height="130rem"/>
+                </div>
+                <div id="paper" class="button">
+                    <img src="paper.png" alt="paper" width="150rem" height="130rem"/>
+                </div>
+                <div id="scissors" class="button">
+                    <img src="scissors.png" alt="scissors" width="150rem" height="130rem"/>
+                </div>
+            </div>
+            <div id="score-label">
+                <p class="label">You</p>
+                <p class="label">Computer</p>
+            </div>
+            <div id="score-container">
+                <div id="player-score" class="score">0</div>
+                <div id="computer-score" class="score">0</div>
+            </div>
+            <!--<div id="results-container"></div>-->
+        </div>
         <script src="rock-paper-scissors.js"></script>
     </body>
 </html>

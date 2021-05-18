@@ -1,0 +1,23 @@
+[33mcommit 240104909d221d93524788d1cf926945a28d23e8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Sun May 9 16:02:51 2021 +0300
+
+    Finished and fixed js file. Haven't found any more bugs
+
+[33mcommit a163d0160fff0b44f004e72de051b5bf0d2e0a57[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Thu May 6 20:05:44 2021 +0300
+
+    Built the js file but it has some errors and it doesn't work currently
+
+[33mcommit de6a0a8142e65c8a4ac63e64a0245a584ec751bf[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Thu May 6 18:27:36 2021 +0300
+
+    made some files
+
+[33mcommit 8f0a689d8ee815bc77b427fd5a6553725410f263[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Thu May 6 18:25:41 2021 +0300
+
+    first commit
